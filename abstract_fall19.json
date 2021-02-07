@@ -1,5 +1,12 @@
 [
     [
+        "Ramjee Sharma", 
+        "University of North Georgia",  
+        "Monday, Feb 10, 2020", 
+        "Developing Online Math Course Materials Using HTML, JavaScript and Sagemath",
+        "In this talk I will show how to create interactive and responsive math web pages using HTML, JavaScript, SageMath, Python, MathJax and JSXGraph. These web pages will produce active reading pages, practice problems, answer checkers and graphical animations using math objects written in JavaScript and Python. The web pages can be used in the class rooms for teaching purpose, or can be uploaded in D2L and Shared Class Files for online assignments. For lower level courses these resources can be used to generate practice problems and increase student online engagement. For higher level courses, these resources can be used for modeling and numerical simulations. This work is part of my effort to produce cost free online course materials for the students. No prior knowledge of programming in JavaScript or python is required."
+    ], 
+    [
         "Daniel Vaccaro", 
         "University of North Georgia",  
         "Monday, Dec 2, 2019", 
