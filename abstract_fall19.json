@@ -1,0 +1,72 @@
+[
+    [
+        "Daniel Vaccaro", 
+        "University of North Georgia",  
+        "Monday, Dec 2, 2019", 
+        "Disability Awareness and Possible Learning Techniques for Students in the College Math Classroom",
+        "This is a talk about how to teach in the multi-sensory world. It also gives the instructors an idea of how to adjust learning by using other ways of learning to students with learning issues. Mainly addressing dyscalculia (the dyslexia of numbers) and ADHD."
+    ], 
+
+    [
+        "Thinh Kieu",
+        "University of North Georgia",
+        "Monday, Nov 18, 2019",
+        "On the Existence of a Solution for Non-Darcy Flows in Porous Media",
+        "This paper is focused on the generalized Forchheimer flows for slightly compressible fluids, described as a system of two nonlinear degenerating partial differential equations of first order. The technique of semidiscretization in time is used to prove the existence of solution for the problem"
+    ],
+
+    [
+        "Danny Lau",
+        "University of North Georgia",
+        "Monday, Nov 11, 2019",
+        "Solve Buffon's Needle Problem Using Freshman Mathematics and Simulation technique",
+        "We will explore the analytic solution to Buffon's Needle Problem using some basic math concepts from trigonometry and calculus.  In addition, we will discuss a simulation approach to approximate the solution.  We will work on another related example on \"Waiting Time\" if time permits."
+    ],
+
+    [
+        "Ramjee Sharma (University of North Georgia) ",
+        "and Kedar Nepal (Mercer University)",
+        "Monday, October 28, 2019 ",
+        "How Do Students in College Mathematics Courses Justify their Self-Assessment Behaviors?",
+        "Research shows that accurate self-assessment (calibration accuracy) is linked to better or efficient study habits (Horgan, 1990), and also to higher academic achievement (Butler and Winne, 1995). We used Moore and Healy's (2008) framework to design a study and collected data on students' self-assessment behavior from various college mathematics courses. We asked students to guess their scores and then to justify their expected scores in quizzes and selected problems in exams after they completed them. Audio-recorded interviews were conducted with a small purposeful sample of students. The students were asked to explain their perceived reasons for their self-assessment behaviors. We will present how top and bottom performers (and those in between) self-assessed their performances in quizzes and exams. We will also present various categories of student self-assessment behaviors that we identified from our qualitative data."
+    ],
+
+    [
+        "Hashim Saber",
+        "University of North Georgia",
+        "Monday, October 21, 2019",
+        "A 3D Surface Modeling of the Left Ventricle of the Heart",
+        "The surgical treatment of mitral valve disease has dramatically improved with the recent development of repair techniques that avoid valve replacement with artificial valve. One of the barriers to developing accurate models of the mitral valve is the lack of temporal and spatial resolution of contemporary imaging techniques (Echocardiography and fluoroscopy methods provide two-dimensional images). In an effort to improve upon these methods, researchers have incorporated a technique called 3D Sonomicrometry which has greater temporal resolution (200 images/second) and is capable of measuring distances accurate to 0.02 millimeters.<br> In this talk I will explain how to produce wireframe images (model) of the left ventricle and mitral valve using Sonomicrometry distance data. I will also discuss how to construct a three-dimensional surface model that is based on three dimensional (3D) Sonomicrometry data."
+    ],
+
+    [
+        "Clayton Kitchings",
+        "University of North Georgia",
+        "Monday, October 14, 2019",
+        "Teaching with Transparency",
+        "There are numerous streaming videos available in 2019 on myriads of topics including mathematical topics. Students use mobile devices to stream video content on a regular basis. How can mathematics instructors leverage students' access to (and affection for) streaming video to support their acquisition and mastery of mathematical content? In this presentation we will discuss ways mathematics instructors can expand their digital reach to students by creating mathematics videos. We will focus on using Smart Notebook and Camtasia as primary tools for creating these videos. We will demonstrate how to use Camtasia to create the video and how to upload it to D2L, where D2L/Kaltura will provide its best attempt to close-caption the video for you. Various peripheral hardware will also be discussed including audio interfaces and tablets along with price ranges for such items. Time permitting, participants will see how it is possible to use Skype as a \"virtual office hour\" for students who cannot make your scheduled office hours but need quick assistance."
+    ],
+		
+    [
+        "Jennifer Williford, Gina Reed, Heather Howington, and Patricia Fried",
+        "University of North Georgia",
+        "Monday, October 7, 2019",
+        "Teaching with Transparency"
+    ],
+
+    [
+        "Gregory Bard", 
+        "University of Wisconsin-Stout",
+        "Tuesday, 24 September 2019",
+        "Tricks, Benefits, and Pitfalls of Teaching Undergraduate Mathematics with Computer-Algebra Software",
+        "In this talk I will give an overview on how to use the free and open-source Computer-Algebra system Sage. While undergraduate research in mathematics will be occasionally mentioned, the talk focuses on teaching undergraduate courses, such as Calculus i, ii, & iii, Linear Algebra, Discrete Mathematics, Differential Equations, Abstract Algebra, and Cryptography. The emphasis will be on classroom-ready examples."
+    ],
+
+    [
+        "Peter Ahumada",
+        "University of North Georgia",
+        "Monday, September 9, 2019",
+        "The Mathematics of Linguistic Philosophy",
+        "A language about the world has an interesting structure and can be expressed by a partial function from a power set into itself.  The presence of a sentence and the truth of a sentence can be formalized in terms of sets.  Relationships between them can be examined.  Of considerable importance is the factical relationship which holds when the presence of the sentence implies the truth of the sentence.  It is also important to consider collections of sentences.  Oddly, it is important to consider collections of sentences each of which have a part that is unknown.  However, you do not need to know what you are saying in order to know you are saying something true!  So, these collections unravel various perplexities found in Kripke's Naming and Necessity and elsewhere in linguistic philosophy."
+    ]
+]
