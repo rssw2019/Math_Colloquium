@@ -38,7 +38,7 @@
       "Dr. Kashi Neupane",
       "University of North Georgia",
       "Long-Term Secure Deniable Group Key Establishment",
-      "TBA"
+      "In this paper we present a long-term secure deniable group key establishment protocol. Long-term security provides resistance against an adversary, even if some underlying hardness assumptions become invalid later, after completion of the protocol. Deniability feature of a group key establishment protocol allows each participant to join a protocol session and authenticate a message for the other group members, but the receiver(s) cannot convince a third party that such involvement of the group members in the process ever took place. </p><p> The protocol presented here is a long-term secure deniable group key establishment protocol in the random oracle model which remains secure if either a Computational Bilinear Diffie Hellman problem is hard or a server, who shares a symmetric key with each user, is uncorrupted. The technical tools used for the protocol are ring signature, multiparty key encapsulation, and message authentication code."
      ],
      [
          "Monday April 5, 2021",
