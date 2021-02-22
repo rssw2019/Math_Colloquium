@@ -15,11 +15,11 @@
      ],
      [
          "Monday March 1, 2021",
-         "TBA",
-         "TBA",
-         "TBA",
-         "TBA"
-     ],    
+         "Dr. Selcuk Koyuncu",
+         "University of North Georgia",
+         "A Note on Multilevel Toeplitz Matrices",
+         "Chien, Liu, Nakazato and Tam proved that all n &times; n classical Toeplitz matrices (one-level Toeplitz matrices) are unitarily similar to complex symmetric matrices via two types of unitary matrices and the type of the unitary matrices only depends on the parity of n. In this paper we extend their result to multilevel Toeplitz matrices that any multilevel Toeplitz matrix is unitarily similar to a complex symmetric matrix. We provide a method to construct the unitary matrices that uniformly turn any multilevel Toeplitz matrix to a complex symmetric matrix by taking tensor products of these two types of unitary matrices for one-level Toeplitz matrices according to the parity of each level of the multilevel Toeplitz matrices. In addition, we introduce a class of complex symmetric matrices that are unitarily similar to some p-level Toeplitz matrices."
+     ],  
      [
          "Monday March 8, 2021",
          "Dr. Thinh Kieu",
