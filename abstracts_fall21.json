@@ -3,66 +3,39 @@
         "Monday Sept 20, 2021",	
         "Paula Mullins ",	
         "University of North Georgia ",
-        "Will the COVID-19 pandemic ever be over? Do mathematicians have the answer? ",
-        "Modeling the spread of a viral disease can be very complicated, but there are simplified models that can be used to introduce the process to undergraduate students. The SIR and SIRS models use systems of differential equations to model viral disease transmission. An analysis of these models illuminates factors which determine whether a disease can be eliminated or controlled. These models also help explain the role vaccinations play in eradicating disease, even if the entire population is not vaccinated. "
+        "Will the COVID-19 pandemic ever be over? Do mathematicians have the answer?",
+        "Modeling the spread of a viral disease can be very complicated, but there are simplified models that can be used to introduce the process to undergraduate students. The SIR and SIRS models use systems of differential equations to model viral disease transmission. An analysis of these models illuminates factors which determine whether a disease can be eliminated or controlled. These models also help explain the role vaccinations play in eradicating disease, even if the entire population is not vaccinated."
      ],
-     [
-         "Monday Sept 27, 2021",
-         " ",
-         " ",
-         " ",
-         " "
-     ],  
-     [
-         "Monday Oct 4, 2021",
-         " ",
-         " ",
-         " ",
-         " "
-     ],
-     [
+	 [
+	 "Monday Sept 27, 2021",
+	 "Marvin McClendon",
+	 "University of North Georgia",
+	 "Stochastic Mechanics",
+	 "We introduce Edward Nelson's stochastic mechanics,  a theory that describes quantum phenomena as classical diffusions.  Starting with Newtonian classical mechanics, we add fluctuations that arise from a Wiener process, a continuous-time-parameter Markov stochastic process with scale parameter equal to the square root of Planck's constant.  These fluctuations give rise to the uncertainty principle.  The mean of the configuration at any time is the configuration of classical mechanics, and at each time a particle has a position and a momentum, not just a probability distribution of them."
+	 ],
+	  [
          "Monday Oct 11, 2021",
          "Steven Benzel ",
          "University of North Georgia",
          "Algorithms for Unsupervised Learning ",
-         "In this talk I will present some common and not so common algorithms for finding clusters in datasets when no a priori knowledge of the dataset is available. We will then test the algorithms on some synthetic and real datasets for performance comparison.  The talk should be accessible to students who have taken linear algebra. "
-     ],
-     ["Monday Oct 18, 2021",
-      " ",
-      " ",
-      " ",
-      " "
-     ],
-     [
-         "Monday Oct 25, 2021",
-         " ",
-         " ",
-         " ",
-         " "
-     ],
-     [
-         "Monday, Nov 1, 2021",
-         " ",
-         " ",
-         " ",
-         " "
-     ],
-     ["Monday Nov 8, 2021",
-      " ",
-      " ",
-      " ",
-      " "
-     ],
-     ["Monday Nov 15, 2021",
-      " ",
-      " ",
-      " ",
-      " "
-     ],
-	 ["Monday Dec 6, 2021",
-      " ",
-      " ",
-      " ",
-      " "
-     ]
+         "In this talk I will present some common and not so common algorithms for finding clusters in datasets when no a priori knowledge of the dataset is available. We will then test the algorithms on some synthetic and real datasets for performance comparison.  The talk should be accessible to students who have taken linear algebra. "],
+	[ "Monday Oct 18, 2021",
+	"Selcuk Koyuncu",
+	"University of North Georgia",
+	"A New AI-Powered Teaching Assistant App in Mathematics",
+	"In this talk, I will talk about current problems in Math education from students’ and teachers’ point of view. Then I will introduce a new AI-powered EdTech product, which was built by Selcuk Koyuncu and Onur Ucler, called MyLearnMate. With the help of AI, MyLearnMate provides instant video solutions to the students Math questions. In addition, I will give a demo about the functionalities of the product." 
+	 ],
+	["Monday Oct 25, 2021",
+	"Clayton Kitchings",
+	"University of North Georgia",
+	"An Introduction to Gradescope: Making Grading More Manageable",	 
+	"Gradescope <a href=\"https://www.gradescope.com/\"> (https://www.gradescope.com/) </a> is a relatively new tool that helps to make the evaluation process more efficient and meaningful. Gradescope describes itself as follows: “Gradescope helps you seamlessly administer and grade all of your assessments, whether online or in-class. Save time grading and get a clear picture of how your students are doing.” In this presentation we will engage in a brief demonstration of some of the features of Gradescope, discuss ideas for its use, and observe tools to help you decide whether or not Gradescope might be useful in your assessment practices. I will share my introductory experiences of interacting with Gradescope and I will also explain how Gradescope helped reduce my grading time for written (open-ended question) exams in MATH 1111, MATH 1113, and MATH 2008 – the courses in which I have used Gradescope so far. Gradescope is suitable for variable-length assignments as well as fixed-template assignments that may include worksheets, quizzes, or exams (both free-response and multiple choice)."
+	],
+	[
+	 "Monday, Nov 1, 2021",
+	 "Anilkumar Devarapu",
+	 "University of North Georgia",
+	 "Deterministic and Stochastic Modeling for Biochemical Reaction Networks",
+	 "Understanding the chemistry of cells is important to our understanding of living things, from bacteria to humans. In recent years, computer simulation has played an increasingly important role in furthering our understanding of dynamics of biochemical reactions. In this talk, we will present deterministic and stochastic simulation methods for solving biochemical reaction networks and their implementation to L1 gene transcription model."
+	 ]
 ]
