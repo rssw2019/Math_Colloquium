@@ -1,0 +1,87 @@
+[
+    
+	{
+        "date": "Feb 5, 2024, 12:00 pm",
+        "speaker": "Irfan Bagci",
+        "title": "Whittaker Modules for Cartan type Lie superalgebras",
+        "university": "University of North Georgia",
+        "abstract": "<p> Simple Lie superalgebras over complex numbers are of type: Classical type and Cartan type. </p><p> In my earlier work, I have defined Whittaker modules for classical Lie superalgebras and proved some important properties of these modules.  </p> <p> Recently I was able to extend some of my earlier results to Cartan type Lie superalgebras. In this talk I will try to briefly summarize these results. </p> "
+    },
+	{
+        "date": "Feb 12, 2024, 12:00 pm",
+        "speaker": "TBA",
+        "title": "TBA",
+        "university": "TBA",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Feb 19, 2024, 12:00 pm",
+        "speaker": "TBA",
+        "title": "TBA",
+        "university": "TBA",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Feb 26, 2024, 12:00 pm",
+        "speaker": "TBA",
+        "title": "TBA",
+        "university": "TBA",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Mar 4, 2024, 12:00 pm",
+        "speaker": "Allan Dills",
+        "title": "TBA",
+        "university": "University of North Georgia",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Mar 11, 2024",
+        "speaker": "TBA",
+        "title": "Spring Break",
+        "university": "",
+        "abstract": ""
+    },
+	{
+        "date": "Mar 18, 2024, 12:00 pm",
+        "speaker": "Brad Lathem",
+        "title": "TBA",
+        "university": "University of North Georgia",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Mar 25, 2024, 12:00 pm",
+        "speaker": "Qing Liu",
+        "title": "TBA",
+        "university": "University of North Georgia",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Apr 1, 2024, 12:00 pm",
+        "speaker": " Thinh Kieu",
+        "title": "TBA",
+        "university": "University of North Georgia",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Apr 8, 2024, 12:00 pm",
+        "speaker": "Bikash Das",
+        "title": "TBA",
+        "university": "University of North Georgia",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Apr 15, 2024, 12:00 pm",
+        "speaker": "Marnie Phipps",
+        "title": "TBA",
+        "university": "University of North Georgia",
+        "abstract": "TBA"
+    },
+	{
+        "date": "Apr 22, 2024, 12:00 pm",
+        "speaker": "Alejandro Sarria",
+        "title": "TBA",
+        "university": "University of North Georgia",
+        "abstract": "TBA"
+    }
+]
